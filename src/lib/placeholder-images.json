@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-games",
+      "description": "A collection of colorful biblical games, cards, and educational materials for children, spread out on a table.",
+      "imageUrl": "https://i.ibb.co/zWy5wD6x/photo-1480388198291-d071e45ee9ca-1.webp",
+      "imageHint": "biblical games kids"
+    },
+    {
+      "id": "testimonial-ana",
+      "description": "Portrait of a happy mother with her child.",
+      "imageUrl": "https://i.ibb.co/Q7qWX9Pj/p22.jpg",
+      "imageHint": "happy mother"
+    },
+    {
+      "id": "testimonial-carla",
+      "description": "Portrait of a friendly female teacher in a classroom.",
+      "imageUrl": "https://i.ibb.co/qMfKYbdB/p11.webp",
+      "imageHint": "smiling teacher"
+    },
+    {
+      "id": "testimonial-maria",
+      "description": "Portrait of a happy grandmother.",
+      "imageUrl": "https://i.ibb.co/b54xDpsS/p33.jpg",
+      "imageHint": "happy grandmother"
+    },
+    {
+      "id": "print-family",
+      "description": "A father and son playing together with printed activity sheets.",
+      "imageUrl": "https://i.ibb.co/5yWTgxX/Design-sem-nome-26.png",
+      "imageHint": "family playing"
+    },
+    {
+      "id": "print-printer",
+      "description": "A color printer printing out colorful game sheets.",
+      "imageUrl": "https://i.ibb.co/gbpkHLZq/Design-sem-nome-27.png",
+      "imageHint": "printed activities"
+    },
+    {
+      "id": "game-cards",
+      "description": "A deck of cards for a 'Truth or Lie' bible game, with red, blue, and white cards.",
+      "imageUrl": "https://images.unsplash.com/photo-1614096602618-38a342f139c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJkJTIwZ2FtZXxlbnwwfHx8fDE3NjIzNjUwNzZ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "card game"
+    },
+    {
+      "id": "album-cover",
+      "description": "The cover of a sticker album titled 'Valentes na Fé' featuring biblical characters.",
+      "imageUrl": "https://images.unsplash.com/photo-1673419293839-a87dde287eb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdGlja2VyJTIwYWxidW18ZW58MHx8fHwxNzYyMzk3MTMxfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "sticker album"
+    },
+    {
+      "id": "album-pages",
+      "description": "Internal pages of a sticker album with some biblical character stickers already placed.",
+      "imageUrl": "https://images.unsplash.com/photo-1602684705285-ca6ae7f52f6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdGlja2VyJTIwYm9va3xlbnwwfHx8fDE3NjIzOTcxMzF8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "sticker book"
+    },
+    {
+      "id": "game-thumbnails",
+      "description": "A montage of various included games and activities.",
+      "imageUrl": "https://images.unsplash.com/photo-1703785977558-37bcbbf3a1e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxnYW1lJTIwYm9hcmQlMjBtb250YWdlfGVufDB8fHx8MTc2MjM5NzEzMXww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "game board montage"
+    },
+    {
+      "id": "bonus-activities",
+      "description": "A printed sheet of complementary bible activities.",
+      "imageUrl": "https://images.unsplash.com/photo-1579642984417-0c00620f8e94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhY3Rpdml0eSUyMHNoZWV0fGVufDB8fHx8MTc2MjM5NzEzMXww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "activity sheet"
+    }
+  ]
+}
