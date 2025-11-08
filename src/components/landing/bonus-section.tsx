@@ -25,7 +25,7 @@ export function BonusSection() {
             <Image
               alt="Folha de Atividades Bônus"
               className="rounded-lg object-cover object-center shadow-2xl transition-transform duration-500 hover:rotate-0 lg:group-hover:rotate-3 [transform:rotateY(10deg)_rotateX(-3deg)]"
-              src="https://i.ibb.co/8Lkzbs8q/bonus.jpg"
+              src="https://familia-em-acao.onrender.com/images/bonus.png"
               width={550}
               height={412}
             />

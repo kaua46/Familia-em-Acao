@@ -49,7 +49,7 @@ export function UpsellDialog({ children }: UpsellDialogProps) {
             </AlertDialogAction>
             <AlertDialogCancel asChild className="w-full max-w-[300px]">
                  <a href="https://pay.lowify.com.br/checkout?product_id=FdHSSl">
-                    <Button variant="link" className="text-white/60 hover:text-white/80 h-auto py-1 px-0 text-xs text-center">
+                    <Button variant="link" className="text-purple-300 hover:text-purple-100 h-auto py-1 px-0 text-xs text-center">
                         Não, obrigado. seguir com o Plano Essencial.
                     </Button>
                  </a>

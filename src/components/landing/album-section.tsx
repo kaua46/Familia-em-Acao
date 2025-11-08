@@ -16,9 +16,9 @@ export function AlbumSection() {
               <Image
                 alt="Álbum de Figurinhas Valentes na Fé"
                 className="rounded-xl object-cover object-center shadow-2xl transition-transform duration-500 hover:rotate-0 lg:group-hover:-rotate-3"
-                src="https://i.ibb.co/nMr6VtvZ/vnf.jpg"
+                src="https://familia-em-acao.onrender.com/images/album.png"
                 width={500}
-                height={600}
+                height={500}
               />
           </div>
         </div>
